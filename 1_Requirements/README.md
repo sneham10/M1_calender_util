@@ -1,6 +1,7 @@
 # Description
 This project is about a mini calendar which can be used to add notes to a day and also see what day does that date falls on,it also display a formatted calendar for every month if any date contains a notes it will display with '||' symbol in it
 
+
 # Requirments
 
 ## High Level Requirments
@@ -9,7 +10,7 @@ This project is about a mini calendar which can be used to add notes to a day an
 
 ## Low Level Requirments
    user should able to add notes
-   
+
 ## SWOT
  ### STRENGTH
   This project is a simple and user friendly
