@@ -54,7 +54,7 @@ int main(int argc, char* argv[]){
       scanf("\n%c", &choice);
       switch(choice) {
         case '1':
-        printf("Enter the day, month and year: ");
+        printf("Enter the date, month and year: ");
         scanf("%d %d %d", &day, &month, &year);
         printf("The day is : %s\n", getName(getDayNumber(day, month, year)));
         break;
@@ -65,7 +65,7 @@ int main(int argc, char* argv[]){
         calendar(year, month);
         break;
         case '3':
-        printf("Enter the day, month and year: ");
+        printf("Enter the date, month and year: ");
         scanf("%d %d %d", &note.day, &note.month, &note.year);
         flush();
         printf("Enter the note: ");
@@ -128,7 +128,7 @@ void calendar(int y, int m){
  
     weekOfTopDay = days(y, m, 1) % 7;
  
-    fp = fopen("note.bin", "rb");
+    fp = fopen("note.bin", "rb");3
     if (fp == NULL) {
       printf("Couldn't read notes\n");
     }

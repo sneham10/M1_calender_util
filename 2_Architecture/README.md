@@ -1,7 +1,8 @@
 # Architecture
 
 ## Design
- structural
+ ### structural
+ 
  behavioural
      flowchart
     use case
