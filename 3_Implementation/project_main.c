@@ -1,7 +1,8 @@
 #include "calender.h" 
-
+extern void test_main();
 
 int main(int argc, char* argv[]){
+    #if 0
     int year,month, day;
     char choice;
     Note note;
@@ -56,6 +57,11 @@ int main(int argc, char* argv[]){
         break;
       }
     }
+    #else
+    test_main();
+    #endif
     return 0;
+  
+
 }
  
