@@ -9,9 +9,9 @@ This project is about a mini calendar which can be used to add notes to a day an
     HL2: User able to view a formatted month wise calander 
 
 ## Low Level Requirments
-   LL1: user should able to add notes 
-   LL2: get date,day and month from user
-   LL3: check wheather leapyear or not
+    LL1: user should able to add notes 
+    LL2: get date,day and month from user
+    LL3: check wheather leapyear or not
 
 ## SWOT
  ### STRENGTH
