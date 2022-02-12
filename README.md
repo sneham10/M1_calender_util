@@ -7,7 +7,7 @@ repository for project in c
 *Design
 *Testplan
 
-# codequalityscore
+### codequalityscore
    https://api.codiga.io/project/31184/score/svg 
-# codegrade
+### codegrade
    https://api.codiga.io/project/31184/status/svg 
