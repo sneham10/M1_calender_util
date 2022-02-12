@@ -8,6 +8,6 @@ repository for project in c
 *Testplan
 
 ### codequalityscore
-   https://api.codiga.io/project/31184/score/svg 
+   https://api.codiga.io/project/31184/score/svg
 ### codegrade
    https://api.codiga.io/project/31184/status/svg 
