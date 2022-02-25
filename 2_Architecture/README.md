@@ -1,8 +1,6 @@
 # Architecture
-
-## Design
- ### structural
- 
- behavioural
-     flowchart
-    use case
+  the file contains 
+      Flowchart
+      Flowchart for leapyear
+      State Diagram
+      Structure Diagram
