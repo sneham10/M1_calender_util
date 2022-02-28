@@ -1,6 +1,6 @@
 # Architecture
   the file contains 
-        ## Flowchart for Calender Management
-        ## Flowchart for leapyear
-        ## State Diagram
-        ## Structure Diagram
+        1. Flowchart for Calender Management
+        2. Flowchart for leapyear
+        3. State Diagram
+        4. Structure Diagram
