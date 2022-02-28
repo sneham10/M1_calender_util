@@ -2,9 +2,13 @@
 This project is about a mini calendar which can be used to add notes to a day and also see what day does that date falls on,it also display a formatted calendar for every month if any date contains a notes it will display with '||' symbol in it
 # Requirments
 ## High Level Requirments
- |HL1| User able to view '||' in the day containing notes|
+ |ID|Descripition|
+ |---|---|
+ |HL1| User able to view '||' in the day containing notes |
  |HL2| User able to view a formatted month wise calander |
 ## Low Level Requirments
+|ID|Descripition|
+|---|---|
 |LL1| user should able to add notes   |
 |LL2| get date,day and month from user|
 |LL3| check wheather leapyear or not  |
