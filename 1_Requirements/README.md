@@ -4,7 +4,7 @@ This project is about a mini calendar which can be used to add notes to a day an
 ## High Level Requirments
  |ID|Descripition|
  |---|---|
- |HL1| User able to view '||' in the day containing notes |
+ |HL1| User able to view '*' in the day containing notes |
  |HL2| User able to view a formatted month wise calander |
 ## Low Level Requirments
 |ID|Descripition|
