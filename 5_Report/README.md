@@ -41,7 +41,12 @@ user can use this anytime they want
 ### WHERE
 This project can be used anywhere in a computer having windows or linux os
  
-
+ # Implementation
+ |Folder|Descripition|
+ |---|---|
+ |inc|all header files|
+ |src|main source code for system|
+ |makefile|that combine all files|
 
 # TestPlanAndOutput
 ## High level Test plan
