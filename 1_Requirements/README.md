@@ -14,13 +14,19 @@ This project is about a mini calendar which can be used to add notes to a day an
 |LL3| check wheather leapyear or not  |
 ## SWOT
  ### STRENGTH
-  This project is a simple and user friendly
+  * This project is a simple and user friendly
+  * Saves times
+  * Automatic shows the important meeting, events
+  * No chance of errers in showing date
  ### WEEKNESS
-  This calendar can take only text notes
+ * This calendar can take only text notes
+ * Data corruption is possible
+ * alternating or even deleting events.
  ### OPPORTUNITIES
- This project helps to add notes so that we can recall easily
+ * This project helps to add notes so that we can recall easily
  ### THREADS
- Easy to edit so can be easily damaged
+ * Easy to edit so can be easily damaged
+ * other similar applications
 ## 4w's snd 1h
 ### WHO
 Any user can use this calander for adding notes and also to view dates

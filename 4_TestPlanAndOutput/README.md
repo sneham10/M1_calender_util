@@ -12,6 +12,6 @@
 |LL1| user should able to add notes   |SUCCESS|SUCCESS|PASS|
 |LL2| get date,day and month from user|SUCCESS|SUCCESS|PASS|
 |LL3| check wheather leapyear or not |SUCCESS|SUCCESS|PASS|
-
+|LL3| system must display date without error|SUCCESS|SUCCESS|PASS|
 
   
